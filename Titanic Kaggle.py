@@ -1,3 +1,5 @@
+# Download the dataset via: https://www.kaggle.com/competitions/titanic/data
+
 #!/usr/bin/env python
 # coding: utf-8
 
