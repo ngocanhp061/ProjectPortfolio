@@ -1,4 +1,7 @@
-﻿Create database ProjectPortfolio
+-- Feel free to visit my Analysis via: https://panoramic-zebra-edbbe.stackbit.app/blog/post-four/
+-- Feel free to visit my tableau dashboard via: https://public.tableau.com/app/profile/pham.ngoc.anh1751/viz/CovidDashboardPortfolioProject_16625348695530/Dashboard1?publish=yes
+
+Create database ProjectPortfolio
 
 Use [ProjectPortfolio]
 Go
